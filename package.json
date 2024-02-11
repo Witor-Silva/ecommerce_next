@@ -2,6 +2,7 @@
   "name": "ecommerce-next",
   "version": "0.1.0",
   "private": true,
+  "editor.formatOnSave": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
